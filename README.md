@@ -27,7 +27,7 @@ However, with all this advent and technological advancement and everything that 
 
 ## Projects:
 
-* **Airbnb Data Analysis - Mexico City:** (https://bit.ly/airbnb-CDMX)
+* **Airbnb Data Analysis - Mexico City:** https://bit.ly/airbnb-mexicocity
 
 
 
