@@ -22,7 +22,7 @@ However, with all this advent and technological advancement and everything that 
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/matosmattheus/)
-* [Medium](https://www.medium.com)
+* [Medium](https://medium.com/@mattheus.matoss)
 
 
 ## Projects:
