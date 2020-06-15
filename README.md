@@ -28,6 +28,7 @@ However, with all this advent and technological advancement and everything that 
 ## Projects:
 
 * **Airbnb Data Analysis - Mexico City:** https://bit.ly/airbnb-mexicocity
+* **Analysis of Violence - _Rio de Janeiro_:** https://bit.ly/violence-RiodeJaneiro
 
 
 
