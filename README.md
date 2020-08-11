@@ -29,6 +29,7 @@ However, with all this advent and technological advancement and everything that 
 
 * **Airbnb Data Analysis - Mexico City:** https://bit.ly/airbnb-mexicocity
 * **Analysis of Violence - _Rio de Janeiro_:** https://bit.ly/violence-RiodeJaneiro
+* **Panorama sobre o COVID-19 no Brasil e no Mundo:** https://bit.ly/COVID-19-BRASIL-MUNDO
 
 
 
