@@ -1,0 +1,6 @@
+output/
+*.mp4
+*.mkv
+*.webm
+*.wav
+__pycache__/
